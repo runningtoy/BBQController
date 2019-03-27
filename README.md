@@ -15,5 +15,5 @@ Weber Spirit long job temperatur controller
 * Nextion 2.4"
 
 # Wiring
-
+![alt text](https://github.com/runningtoy/BBQController/blob/master/wireing.png?raw=true)
 # SW Libraries
